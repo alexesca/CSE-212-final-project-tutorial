@@ -3,6 +3,6 @@
 
 #### Content
 
-1. [Stacks](01 - stacks/README.md)
-1. [Linked Lists](02 - linked_lists/README.md)
-1. [Binary Trees](03 - binary_trees/README.md)
+1. [Stacks](/01_stacks/README.md)
+1. [Linked Lists](02_linked_lists/README.md)
+1. [Binary Trees](03_binary_trees/README.md)
